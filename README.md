@@ -1,9 +1,10 @@
 # Rubiks-Cube-Solver
-Rubik's Cube Solver coded in Python.
-Solver Coded by Lucas Liberacki and Tom Brannan
+Rubik's Cube Solver coded in Python.  
+Solver Coded by Lucas Liberacki and Tom Brannan  
 
 To run the Solver, run the cube.py file. The GUI will automatically start up. If you get errors, there is a chance that you do not have tkinter installed. That is necessary to have in order to run the GUI.
 
+#Features
 Just read the instructions to see some of the features that are included in the Solver.
 Various features included are:
 *User or program generated scrambles  
@@ -13,7 +14,7 @@ Various features included are:
 *Ability to copy scrambles or solutions to the clipboard, as well as view externally.  
 *Clicking on the 2D cube will allow you to see the other bottom tiles that are not normally visible  
 
-
+#Various Commands
 If you don't want to use the GUI, you can also just type function commands in the interpreter. Here are some of the useful ones:  
 *print_cube()   Prints the cube in text format  
 *scramble()     You can either provide a number, a scramble in string format, or nothing for a 25 move default scramble  
