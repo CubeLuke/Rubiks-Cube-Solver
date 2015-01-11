@@ -14,6 +14,12 @@ Various features included are:
 *Ability to copy scrambles or solutions to the clipboard, as well as view externally.  
 *Clicking on the 2D cube will allow you to see the other bottom tiles that are not normally visible  
 
+
+[IMG]https://cloud.githubusercontent.com/assets/10378593/5694175/4f15d546-9914-11e4-83ea-e85d91236071.png[/IMG]
+
+
+
+
 #Various Commands
 If you don't want to use the GUI, you can also just type function commands in the interpreter. Here are some of the useful ones:  
 *print_cube()   Prints the cube in text format  
