@@ -17,7 +17,7 @@ Various features included are:
 If you don't want to use the GUI, you can also just type function commands in the interpreter. Here are some of the useful ones:
 *print_cube()   Prints the cube in text format  
 *scramble()     You can either provide a number, a scramble in string format, or nothing for a 25 move default scramble  
-get_scramble()  Prints the previous scramble
-solve()         Will solve the cube
-get_moves()     Prints out the Solution that was generated upon using solve()
-simulation(num) The number provided is the amount of solves you want to simulate. Will return you the best solve with it's scramble, as well as the worst solve and it's scramble.
+get_scramble()  Prints the previous scramble  
+solve()         Will solve the cube  
+get_moves()     Prints out the Solution that was generated upon using solve()  
+simulation(num) The number provided is the amount of solves you want to simulate. Will return you the best solve with it's scramble, as well as the worst solve and it's scramble.  
