@@ -6,7 +6,7 @@ To run the Solver, run the cube.py file. The GUI will automatically start up. If
 
 ###Features
 Just read the instructions to see some of the features that are included in the Solver.
-Various features included are:
+Various features included are:  
 *User or program generated scrambles  
 *The ability to make custom moves  
 *The ability to hit either the solve button, or each step of the solve to see it solve step-by-step  
