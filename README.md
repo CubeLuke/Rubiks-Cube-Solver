@@ -14,7 +14,7 @@ Various features included are:
 *Clicking on the 2D cube will allow you to see the other bottom tiles that are not normally visible  
 
 
-If you don't want to use the GUI, you can also just type function commands in the interpreter. Here are some of the useful ones:
+If you don't want to use the GUI, you can also just type function commands in the interpreter. Here are some of the useful ones:  
 *print_cube()   Prints the cube in text format  
 *scramble()     You can either provide a number, a scramble in string format, or nothing for a 25 move default scramble  
 get_scramble()  Prints the previous scramble  
