@@ -1,6 +1,6 @@
 # Rubiks-Cube-Solver
 Rubik's Cube Solver coded in Python.  
-Solver Coded by Lucas Liberacki and Tom Brannan  
+Solver Coded by <a href="https://github.com/CubeLuke">Lucas Liberacki</a> and <a href="https://github.com/TomBrannan">Tom Brannan</a>
 
 To run the Solver, run the cube.py file. The GUI will automatically start up. If you get errors, there is a chance that you do not have tkinter installed. That is necessary to have in order to run the GUI.
 
